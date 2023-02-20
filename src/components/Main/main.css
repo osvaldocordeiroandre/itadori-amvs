@@ -1,0 +1,340 @@
+.container{
+    width: 100%;
+    height: 100vh;
+
+    z-index: 1000;
+
+    text-align: center;
+}
+
+.logoita{
+    width: 20rem;
+}
+
+.container h4{
+    margin-top: 40px;
+
+}
+
+span{
+    font-size: 1.5rem;
+
+    font-weight: 100;
+}
+
+.adjustspan{
+    text-align: center;
+
+    width: 1500px;
+}
+
+.spancontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topvideos{
+    text-align: center;
+
+    padding-top: 20px;
+}
+
+.strongsize{
+    font-size: 2rem;
+}
+
+.themain{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    flex-wrap: wrap;
+   
+}
+
+.animejust{
+    width: 100%;
+    max-width: 400px;
+
+    cursor: pointer;
+
+    transition: transform .2s;
+
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.animejust:hover{
+    transform: scale(1.1);
+
+    transition: transform .2s;
+
+}
+
+.amagamiss{
+    width: 100%;
+    max-width: 400px;
+
+    padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+    cursor: pointer;
+
+    transition: transform .2s;
+}
+
+.amagamiss:hover{
+    transform: scale(1.1);
+
+    transition: transform .2s;
+}
+
+.komi{
+    width: 100%;
+    max-width: 400px;
+
+    padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+    cursor: pointer;
+
+    transition: transform .2s;
+}
+
+.komi:hover{
+    transform: scale(1.1);
+
+    transition: transform .2s;
+}
+
+.smartphone{
+    width: 100%;
+
+    max-width: 800px;
+
+    margin-top: 50px;
+}
+
+.test1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.font-ajust{
+    font-family: Quicksand;
+
+    color: white;
+
+    margin: 2rem 0;
+
+    font-size: 2.8rem;
+    font-weight: 100;
+}
+
+.helpme{
+    display: flex;
+    text-align: right;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    
+    margin-top: 250px;
+}
+
+.youtubebutton{
+    background-color: rgb(206, 39, 39);
+
+    width: 200px;
+
+    color: white;
+
+    font-size: 3rem;
+    font-family: Oswald;
+
+    border-radius: 50px;
+
+    text-decoration: none;
+    border: none;
+
+    transition: transform .2s;
+}
+
+.youtubebutton:hover{
+
+    transform: scale(1.1);
+
+    transition: transform .2s;
+}
+
+.leviotario{
+    font-family: Quicksand;
+    font-weight: 300;
+
+    color: white;
+
+    margin: 2rem 0;
+
+    font-size: 2rem;
+}
+
+.sociaisi-medias{
+    
+    display: flex;
+    justify-content: center;
+
+    
+    margin-bottom: 20px;
+    
+}
+
+.instagram{
+
+    cursor: pointer;
+
+    color: white;
+}
+
+
+.facebook{
+
+    color: white;
+
+    padding-left: 6px;
+}
+
+.discord{
+
+    color: white;
+
+    padding-left: 6px;
+    
+}
+
+.spotify{
+
+    color: white;
+
+    padding-left: 6px;
+}
+
+.papart{
+    text-align: center;
+    justify-content: center;
+
+    padding: 40px 0;
+    
+}
+
+.manpqp{
+    font-family: Quicksand;
+
+    color: white;
+}
+
+.columjust{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    font-size: large;
+}
+
+.centerall{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    width: 1400px;
+}
+
+.containercenterall{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+}
+
+.adjustthis{
+    width: 300px;
+
+    margin-top: 10px;
+    margin-left: 10px;
+
+    cursor: pointer;
+}
+
+.adjustthis:hover{
+    transform: scale(1.1);
+
+    transition: transform .2s;
+}
+
+strong{
+    color: white;
+}
+
+
+.pictureajust{
+    text-align: center;
+
+    margin-top: 100px;
+
+    background-color: #181A1B;
+}
+
+.saudavel{
+    width: 100%;
+
+    max-width: 600px;
+
+    margin-bottom: 20px; 
+}
+
+.partinecontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.partine{
+    text-align: center;
+
+    font-size: 1.4rem;
+    font-family: Quicksand;
+    font-weight: 100;
+
+    color: white;
+
+    margin-top: 50px;
+
+    width: 1300px;
+
+    
+}
+
+.CaHu{
+    padding-left: 10px;
+}
+
+.ScoRyy{
+    padding-left: 10px;
+}
+
+.rYnE{
+    padding-left: 10px;
+}
+
+
+
+@media (max-width: 407px){
+    .logoita{
+        width: 95%;
+    }
+}

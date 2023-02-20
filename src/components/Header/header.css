@@ -1,0 +1,84 @@
+.video-itadori{
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 60px;
+
+    background: url(../../Assets//gif/site-360.gif);
+    background-size: cover;
+}
+
+video{
+    width: 100vw;
+}
+
+.itadori-logo{
+    width: 300px;
+
+    margin-top: 6%;
+
+    border-radius: 4px;
+}
+
+.video-itadori .itadoall{
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+    padding-bottom: 6%;
+
+    margin: 0 16%;
+
+    width: 1050px;
+}
+
+.itadori-message{
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 30px;
+}
+
+.itadori-analustic{
+    display: flex;
+    flex-direction: column;
+
+    width: 300px;
+
+    margin-top: 60px;
+}
+
+.channelName{
+    font-size: 3rem;
+    font-weight: bolder;
+
+    width: 300px;
+
+
+}
+
+.h3message{
+    width: 320px;
+
+    font-size: 2rem;
+    font-weight: 200;
+
+    margin-top: 30px;
+}
+
+.itadoriAnalystic{
+    font-size: 2.5rem;
+
+    text-align: end;
+}
+
+.dados{
+    font-size: 2.7rem;
+
+}
