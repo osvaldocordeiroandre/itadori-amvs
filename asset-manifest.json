@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/itadori-amvs/static/css/main.43db5678.css",
+    "main.js": "/itadori-amvs/static/js/main.1601cdc7.js",
+    "static/media/site-360.gif": "/itadori-amvs/static/media/site-360.8bd9db10af99f9317723.gif",
+    "static/media/Banner-Takagi-san.jpg": "/itadori-amvs/static/media/Banner-Takagi-san.922f1efb9ffd2b43f99b.jpg",
+    "static/media/itadori_amvs_pfp.jpg": "/itadori-amvs/static/media/itadori_amvs_pfp.49d086ad1670492e4049.jpg",
+    "static/media/Banner-Amagami-SS2.jpg": "/itadori-amvs/static/media/Banner-Amagami-SS2.6c3ea353d9f0e97407b1.jpg",
+    "static/media/Banner-Komi-san.jpg": "/itadori-amvs/static/media/Banner-Komi-san.9bcb54fc63132a849109.jpg",
+    "static/media/Banner_End_Itadori.jpg": "/itadori-amvs/static/media/Banner_End_Itadori.04e1712ea4ff34483e2d.jpg",
+    "static/media/Smart-Phone.png": "/itadori-amvs/static/media/Smart-Phone.d7168035c580d803e5f9.png",
+    "static/media/3-One-Oh.jpg": "/itadori-amvs/static/media/3-One-Oh.985457e2f06826c37e90.jpg",
+    "static/media/RYYZN.jpg": "/itadori-amvs/static/media/RYYZN.46f3f3165813f260102a.jpg",
+    "static/media/Scott-the -pisces.jpg": "/itadori-amvs/static/media/Scott-the -pisces.ad59251f7733b8a52880.jpg",
+    "static/media/Caroline.jpg": "/itadori-amvs/static/media/Caroline.4fb04a567bb288fcf9c7.jpg",
+    "static/media/Error-Gojo.gif": "/itadori-amvs/static/media/Error-Gojo.5063ffe784a28932c201.gif",
+    "static/media/Hurshel.jpg": "/itadori-amvs/static/media/Hurshel.7836166d1b1b955c0a69.jpg",
+    "static/media/CADMIUM.jpg": "/itadori-amvs/static/media/CADMIUM.4ce7818ebbd32ac1dc1e.jpg",
+    "static/media/Shadowkey.jpg": "/itadori-amvs/static/media/Shadowkey.cb8074c6c78a3b64f9b0.jpg",
+    "static/media/Itadori_Logo_braca.png": "/itadori-amvs/static/media/Itadori_Logo_braca.fe8adb78e40e1cb36407.png",
+    "static/media/NEFFEX.jpg": "/itadori-amvs/static/media/NEFFEX.2e690de01acd34e054e2.jpg",
+    "index.html": "/itadori-amvs/index.html",
+    "main.43db5678.css.map": "/itadori-amvs/static/css/main.43db5678.css.map",
+    "main.1601cdc7.js.map": "/itadori-amvs/static/js/main.1601cdc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43db5678.css",
+    "static/js/main.1601cdc7.js"
+  ]
+}
