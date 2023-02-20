@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/itadori-amvs/static/css/main.43db5678.css",
+    "main.css": "/itadori-amvs/static/css/main.5bd5e660.css",
     "main.js": "/itadori-amvs/static/js/main.1601cdc7.js",
-    "static/media/site-360.gif": "/itadori-amvs/static/media/site-360.8bd9db10af99f9317723.gif",
+    "static/media/site-720.gif": "/itadori-amvs/static/media/site-720.da8067d02e2701e12c2f.gif",
     "static/media/Banner-Takagi-san.jpg": "/itadori-amvs/static/media/Banner-Takagi-san.922f1efb9ffd2b43f99b.jpg",
     "static/media/itadori_amvs_pfp.jpg": "/itadori-amvs/static/media/itadori_amvs_pfp.49d086ad1670492e4049.jpg",
     "static/media/Banner-Amagami-SS2.jpg": "/itadori-amvs/static/media/Banner-Amagami-SS2.6c3ea353d9f0e97407b1.jpg",
@@ -20,11 +20,11 @@
     "static/media/Itadori_Logo_braca.png": "/itadori-amvs/static/media/Itadori_Logo_braca.fe8adb78e40e1cb36407.png",
     "static/media/NEFFEX.jpg": "/itadori-amvs/static/media/NEFFEX.2e690de01acd34e054e2.jpg",
     "index.html": "/itadori-amvs/index.html",
-    "main.43db5678.css.map": "/itadori-amvs/static/css/main.43db5678.css.map",
+    "main.5bd5e660.css.map": "/itadori-amvs/static/css/main.5bd5e660.css.map",
     "main.1601cdc7.js.map": "/itadori-amvs/static/js/main.1601cdc7.js.map"
   },
   "entrypoints": [
-    "static/css/main.43db5678.css",
+    "static/css/main.5bd5e660.css",
     "static/js/main.1601cdc7.js"
   ]
 }
